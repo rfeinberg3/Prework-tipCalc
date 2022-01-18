@@ -30,9 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/CFNfSTFJYE.gif" width=250><br>
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
