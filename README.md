@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/CFNfSTFJYE.gif
+<img src="http://g.recordit.co/CFNfSTFJYE.gif" width=250><br>
 
 ## Notes
 
